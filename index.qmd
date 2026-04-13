@@ -1,5 +1,5 @@
 ---
-title: "intro"
+title: "index"
 format: html
 editor: visual
 ---
