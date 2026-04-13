@@ -1,0 +1,13 @@
+---
+title: "intro"
+format: html
+editor: visual
+---
+
+## Intro
+
+This file is landing page for my 806 Github pages site.
+
+## Analysis
+
+## Discussion
